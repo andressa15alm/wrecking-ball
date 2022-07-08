@@ -1,0 +1,9 @@
+class Ball {
+  constructor() {
+   
+  }
+
+  display() {
+    
+  }
+}
